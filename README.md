@@ -20,9 +20,9 @@ Users can slice the data by Census Region, Division, or individual state to unco
 
 **📂 Data Source**
 
-Population estimates from U.S. Census Bureau (historical dataset covering 1950 – 2015 by state).
+https://raw.githubusercontent.com/JoshData/historical-state-population-csv/master/historical_state_population_by_year.csv
 
-✨ # Features & Highlights
+**✨ Features & Highlights**
 
 **Problem Statement**
 - Understand how populations have evolved across U.S. states, and identify which regions and divisions have experienced the most growth since 1950.
