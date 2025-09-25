@@ -49,7 +49,8 @@ https://raw.githubusercontent.com/JoshData/historical-state-population-csv/maste
 
 
    
-
+- View and interact with the visuals via this link: https://app.powerbi.com/view?r=eyJrIjoiNDc1MDlkYTAtZTQ4MC00YTMwLWJkMmYtYTVjNzJhNGZkOWIzIiwidCI6ImNhYTQ5ODFiLTk0M2MtNGE3NS04ZWJhLWIyODNiYTVmYmMxOCJ9
+  
 - Clone the repository, open the .pbix file in Power BI Desktop, and explore the visuals interactively or view the included .png previews.
 
 - Feel free to fork this project, adapt it to new datasets, or contribute additional visuals and insights!
