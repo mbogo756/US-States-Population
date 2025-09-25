@@ -24,16 +24,16 @@ https://raw.githubusercontent.com/JoshData/historical-state-population-csv/maste
 
 **✨ Features & Highlights**
 
-**Problem Statement**
+*Problem Statement*
 - Understand how populations have evolved across U.S. states, and identify which regions and divisions have experienced the most growth since 1950.
 
-**Dashboard Goals**
+*Dashboard Goals*
 
 - Provide a single, interactive view of population by Region, Division, and State.
 
 - Enable time-series analysis to track growth trends and compare different areas.
 
-**Key Visuals**
+*Key Visuals*
 
 1.Map with regional and country borders, interactive tooltip showing each state’s full 1950-2015 population trend.
 
@@ -46,7 +46,8 @@ https://raw.githubusercontent.com/JoshData/historical-state-population-csv/maste
 5. Ribbon Chart showing population changes by year and state.
 
 6. Growth Table & Slicer on a second page to calculate population growth between any two selected years.
+   
 
-*Clone the repository, open the .pbix file in Power BI Desktop, and explore the visuals interactively or view the included .png previews.*
+- Clone the repository, open the .pbix file in Power BI Desktop, and explore the visuals interactively or view the included .png previews.
 
-*Feel free to fork this project, adapt it to new datasets, or contribute additional visuals and insights!*
+- Feel free to fork this project, adapt it to new datasets, or contribute additional visuals and insights!
