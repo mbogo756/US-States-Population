@@ -3,14 +3,14 @@
 Interactive Power BI report exploring population trends for every U.S. state from 1950 through 2015.
 The project highlights long-term growth patterns and regional differences, providing both high-level summaries and detailed state-by-state insights.
 
-📝 # Project Overview
+# 📝 Project Overview
 
 The goal of this dashboard is to analyze and visualize population change across the United States over 65 years.
 Users can slice the data by Census Region, Division, or individual state to uncover patterns, compare areas, and evaluate growth across any custom time interval.
 
 
 
-|**Tool / Language**      | **Purpose **                                                               |
+|**Tool / Language     | Purpose                                                            **  |
 | -------------------- | ---------------------------------------------------------------------- |
 | **Excel**            | Initial data inspection & light cleaning                               |
 | **Power Query**      | Data transformation and shaping                                        |
