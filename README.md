@@ -46,6 +46,8 @@ https://raw.githubusercontent.com/JoshData/historical-state-population-csv/maste
 5. Ribbon Chart showing population changes by year and state.
 
 6. Growth Table & Slicer on a second page to calculate population growth between any two selected years.
+
+
    
 
 - Clone the repository, open the .pbix file in Power BI Desktop, and explore the visuals interactively or view the included .png previews.
